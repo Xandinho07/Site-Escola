@@ -10,7 +10,7 @@ padding: 22px 0;}
 h1{
     display: inline-block;
     margin: 0 32px;
-    padding: 90px 0;
+    padding: 100px 0;
 font-size: 37px;}
 
 li{}
@@ -30,4 +30,9 @@ padding: 22px 0;}
     text-align: center;
     padding: 50px 0;
     font-size: 30px;
+}
+.estudante-icone
+{width: 50px;}
+.estudante-div {
+    text-align:center;
 }
