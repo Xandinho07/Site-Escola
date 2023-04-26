@@ -36,3 +36,16 @@ padding: 22px 0;}
 .estudante-div {
     text-align:center;
 }
+.estudante-todos {
+    display: grid;
+    grid-template-columns:  25% 25% 25% 25%;
+}
+footer{
+    background-color: white;
+    color: red;
+    font-size: 22px ;
+    text-align: center;
+}
+.estudante{
+    background-color: rgb(160, 30, 30);
+}
